@@ -1,0 +1,45 @@
+{
+  "manifest_version": 3,
+  "name": "Study Efficiency Tracker",
+  "description": "Track focused study sessions, detect distractions, and sync analytics to your web dashboard.",
+  "version": "1.0.0",
+  "permissions": [
+    "tabs",
+    "storage",
+    "idle",
+    "notifications"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Study Efficiency Tracker"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "deepstudy.html",
+        "styles/deepstudy.css"
+      ],
+      "matches": [
+        "<all_urls>"
+      ]
+    }
+  ]
+}

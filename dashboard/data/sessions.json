@@ -1,0 +1,167 @@
+[
+  {
+    "id": "eff0eb01-bdd2-4f73-a88f-721f85bee957",
+    "start_time": "2026-02-20T23:43:06.249Z",
+    "end_time": "2026-02-20T23:43:06.249Z",
+    "total_time": 3600,
+    "effective_time": 3200,
+    "focus_score": 92,
+    "burnout_score": 0,
+    "subject_label": "Linear Algebra",
+    "tab_logs": [
+      {
+        "domain": "docs.google.com",
+        "category": "academic",
+        "time_spent": 1800,
+        "is_important": false,
+        "timestamp": "2026-02-22T23:43:06.250Z"
+      },
+      {
+        "domain": "en.wikipedia.org",
+        "category": "neutral",
+        "time_spent": 600,
+        "is_important": false,
+        "timestamp": "2026-02-22T23:43:06.250Z"
+      },
+      {
+        "domain": "scholar.google.com",
+        "category": "academic",
+        "time_spent": 800,
+        "is_important": false,
+        "timestamp": "2026-02-22T23:43:06.250Z"
+      }
+    ]
+  },
+  {
+    "id": "127dfdf5-b370-4bec-b9bd-8ee758d624c8",
+    "start_time": "2026-02-21T23:43:06.249Z",
+    "end_time": "2026-02-21T23:43:06.249Z",
+    "total_time": 3600,
+    "effective_time": 900,
+    "focus_score": 38,
+    "burnout_score": 0,
+    "subject_label": "Essay",
+    "tab_logs": [
+      {
+        "domain": "reddit.com",
+        "category": "distracting",
+        "time_spent": 1200,
+        "is_important": false,
+        "timestamp": "2026-02-22T23:43:06.250Z"
+      },
+      {
+        "domain": "youtube.com",
+        "category": "distracting",
+        "time_spent": 900,
+        "is_important": false,
+        "timestamp": "2026-02-22T23:43:06.250Z"
+      },
+      {
+        "domain": "docs.google.com",
+        "category": "academic",
+        "time_spent": 400,
+        "is_important": false,
+        "timestamp": "2026-02-22T23:43:06.250Z"
+      }
+    ]
+  },
+  {
+    "id": "29b6a098-e014-4467-bbd8-85ccfad9aa0a",
+    "start_time": "2026-02-23T05:30:00.000Z",
+    "end_time": "2026-02-23T05:30:00.000Z",
+    "total_time": 1800,
+    "effective_time": 1200,
+    "focus_score": 70,
+    "burnout_score": 0,
+    "subject_label": "Cramming",
+    "tab_logs": []
+  },
+  {
+    "id": "f85e3960-651a-4825-b7bb-70bfcc00ab3c",
+    "start_time": "2026-02-17T23:43:06.249Z",
+    "end_time": "2026-02-22T23:43:06.249Z",
+    "total_time": 3600,
+    "effective_time": 3000,
+    "focus_score": 80,
+    "burnout_score": 0,
+    "subject_label": "",
+    "tab_logs": []
+  },
+  {
+    "id": "394b3d0d-c217-4f7b-809b-36ad1515436b",
+    "start_time": "2026-02-18T23:43:06.249Z",
+    "end_time": "2026-02-22T23:43:06.249Z",
+    "total_time": 3600,
+    "effective_time": 2400,
+    "focus_score": 65,
+    "burnout_score": 0,
+    "subject_label": "",
+    "tab_logs": []
+  },
+  {
+    "id": "bde14f13-7255-47ad-8478-89fe679de6de",
+    "start_time": "2026-02-19T23:43:06.249Z",
+    "end_time": "2026-02-22T23:43:06.249Z",
+    "total_time": 3600,
+    "effective_time": 1500,
+    "focus_score": 45,
+    "burnout_score": 0,
+    "subject_label": "",
+    "tab_logs": []
+  },
+  {
+    "id": "96d48668-d6ff-462a-96b7-6190d752f980",
+    "start_time": "2026-02-16T23:43:06.249Z",
+    "end_time": "2026-02-22T23:43:06.249Z",
+    "total_time": 3600,
+    "effective_time": 1200,
+    "focus_score": 35,
+    "burnout_score": 0,
+    "subject_label": "",
+    "tab_logs": []
+  },
+  {
+    "id": "dfcd711a-f1c1-433c-8eea-4cfe0c26732e",
+    "start_time": "2026-02-22T23:43:06.249Z",
+    "end_time": "2026-02-22T23:43:06.249Z",
+    "total_time": 60,
+    "effective_time": 60,
+    "focus_score": 100,
+    "burnout_score": 0,
+    "subject_label": "Quick review",
+    "tab_logs": []
+  },
+  {
+    "id": "307da16c-cc03-4aa2-a971-dae74cfdcb46",
+    "start_time": "2026-02-15T23:43:06.249Z",
+    "end_time": "2026-02-22T23:43:06.249Z",
+    "total_time": 5400,
+    "effective_time": 3600,
+    "focus_score": 72,
+    "burnout_score": 0,
+    "subject_label": "",
+    "tab_logs": [
+      {
+        "domain": "notion.so",
+        "category": "academic",
+        "time_spent": 2000,
+        "is_important": false,
+        "timestamp": "2026-02-22T23:43:06.250Z"
+      },
+      {
+        "domain": "instagram.com",
+        "category": "distracting",
+        "time_spent": 600,
+        "is_important": false,
+        "timestamp": "2026-02-22T23:43:06.250Z"
+      },
+      {
+        "domain": "github.com",
+        "category": "neutral",
+        "time_spent": 1800,
+        "is_important": false,
+        "timestamp": "2026-02-22T23:43:06.250Z"
+      }
+    ]
+  }
+]

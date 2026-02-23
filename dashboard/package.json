@@ -1,0 +1,30 @@
+{
+  "name": "study-efficiency-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "open": "open http://localhost:3000",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "jest --runInBand",
+    "test:watch": "jest --watch",
+    "seed": "node scripts/seed-test-data.js"
+  },
+  "dependencies": {
+    "chart.js": "^4.4.6",
+    "next": "14.2.18",
+    "react": "^18.3.1",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "14.2.18",
+    "jest": "^29.7.0",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.15"
+  }
+}
