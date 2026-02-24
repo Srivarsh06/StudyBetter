@@ -28,6 +28,7 @@ Chrome extension + Next.js dashboard for tracking study sessions. **No Supabase,
 - **Example data:** Run `npm run seed` in `dashboard/` to fill `data/sessions.json` with example sessions, then check Dashboard, Analytics, Performance, Burnout.
 - **Full manual plan:** See [docs/TEST-PLAN.md](docs/TEST-PLAN.md) for step-by-step test cases for all features.
 
-## Do you need Supabase?
+## FUTURE MODIFICATIONS
 
-For this **single-user, no-login test concept**: **no**. The dashboard uses a local JSON file and does not need Supabase or any external database. If you later want multi-user or hosted deployment with persistent data, you can reintroduce Supabase (or another DB) and the `supabase/schema.sql` is still there for reference.
+For this **single-user, no-login test concept**: **no** currently the dashboard uses a local JSON file and does not need Supabase or any external database. But we plan on implementing multi-user/ hosted deployment with persistent data.
+
