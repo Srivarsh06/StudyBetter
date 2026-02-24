@@ -1,4 +1,4 @@
-# Study Efficiency Tracker (test concept – single user, no login)
+# studyBetter(test concept – single user, no login)
 
 Chrome extension + Next.js dashboard for tracking study sessions. **No Supabase, no user accounts.** One person runs the app at a time; data is stored in a JSON file on the dashboard server.
 
